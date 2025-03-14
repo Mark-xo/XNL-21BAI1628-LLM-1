@@ -45,7 +45,7 @@ The architecture of this project consists of the following layers:
    - Currently returns a dummy answer for testing purposes.
 
 A high‑level architecture diagram is provided in the `docs` folder. You can view the diagram here:  
-![Architecture Diagram](/docs/architecture.drawio.png)
+
 
 ## Components
 
