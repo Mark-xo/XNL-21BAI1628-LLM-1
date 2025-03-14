@@ -201,6 +201,6 @@ For production deployment, consider the following:
 ## Additional Documentation
 For more detailed information on architecture, design decisions, and future enhancements, please refer to the documents in the docs/ folder. Notably, the architecture is visually represented in:
 
-'docs/architecture.drawio.png'
+'./docs/architecture.drawio.png'
 ## Contributing
 Contributing to xnl-innovations. Please fork the repository and open pull requests for improvements or bug fixes. Ensure that new changes include appropriate tests and documentation updates.
